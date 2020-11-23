@@ -8,11 +8,11 @@ layout: service
 
 ## We buy and hold rental properties that produce monthly cash flow.
 
-We purchase properties 80%+ bellow market value, fix them up and rent them. We only hold deals that produce more than 20% annual RoI
+We purchase properties 80%+ bellow market value, fix them up and rent them. We only hold deals that produce more than 25% annual RoI
 
-Here are some example of our portfolio
+Here are some properties on our portfolio.
 
-## Rental Property 1 (Mississauga)
+## Rental Property #1 (Mississauga)
 
 ### Before Rehab
 
@@ -29,3 +29,7 @@ Here is the condition of the property when we bought it.
  ![bedroom](/images/property1/after-rehab/bedroom.jpg) | ![bathroom](/images/property1/after-rehab/bathroom.jpg)| ![laundry](/images/property1/after-rehab/laundry-room.jpg)
 
 ### The Numbers
+
+We currently rent this property for $1,400 per month. This is our current total Return On Investment on this property.
+
+![the-numbers](/images/property1/the-numbers.jpg)

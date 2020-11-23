@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Services
 
-Our mission is to help home owners with their Real Estate problems and provide value to tenants.
+We buy houses with a potential to generate cash flow, rehab them and manage them and their tenants.

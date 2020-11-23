@@ -7,4 +7,4 @@ bodyClass: page-about
 
 Global 4 Business Inc. is a Canadian owned company with focus in providing an outstanding service on your Real Estate needs. 
 
-Contact us today for your no obligation estimate.
+Contact us today to learn more.
